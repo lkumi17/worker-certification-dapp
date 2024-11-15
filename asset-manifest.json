@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/worker-certification-dapp/static/css/main.d078f0c4.css",
+    "main.css": "/worker-certification-dapp/static/css/main.9c27abfc.css",
     "main.js": "/worker-certification-dapp/static/js/main.f9ba3141.js",
     "static/js/453.a0737061.chunk.js": "/worker-certification-dapp/static/js/453.a0737061.chunk.js",
     "index.html": "/worker-certification-dapp/index.html",
-    "main.d078f0c4.css.map": "/worker-certification-dapp/static/css/main.d078f0c4.css.map",
+    "main.9c27abfc.css.map": "/worker-certification-dapp/static/css/main.9c27abfc.css.map",
     "main.f9ba3141.js.map": "/worker-certification-dapp/static/js/main.f9ba3141.js.map",
     "453.a0737061.chunk.js.map": "/worker-certification-dapp/static/js/453.a0737061.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d078f0c4.css",
+    "static/css/main.9c27abfc.css",
     "static/js/main.f9ba3141.js"
   ]
 }
